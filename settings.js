@@ -2,14 +2,14 @@ module.exports = {
   // 🤖 BASIC INFO
   botName: "RIFT-MD 👑",
   ownerName: "WeedTech",
-  ownerNumber: "18295802916",
-  sudoNumbers: ["18295802916"],
+  ownerNumber: "254797923753",
+  sudoNumbers: ["254797923753"],
   prefix: ".",
   version: "2.0.0",
   
   // ⚙️ SYSTEM & ENVIRONMENT
   sessionName: "riftmd-session",
-  timezone: "America",
+  timezone: "Africa/Nairobi",
   language: "en",
 
   // 🎨 STICKER UI CUSTOMIZATION
